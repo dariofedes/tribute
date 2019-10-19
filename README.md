@@ -1,2 +1,2 @@
 # tribute
-Project for freeCodeCamp web design module
+This Gichin Funakoshi tribute website is a project for freeCodeCamp web design module
